@@ -54,6 +54,6 @@
     "url": "https://github.com/marcus4guyen/semantic-release.git"
   },
   "release": {
-    "pkgRoot": "dist/semantic-release"
+    "pkgRoot": "dist/product-list"
   }
 }
